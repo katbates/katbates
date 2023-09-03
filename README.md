@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, I'm Kat 👋
 
-<!--
-**katbates/katbates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior data analyst. I've recently left a career in teaching and I'm looking to start my career in data.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍🎓**I've been teaching myself**:
+* Python
+* SQL
+* R
+* Tableau
+  
+🔎**Find my projects here**:
+* Python - [moma project](https://github.com/katbates/moma-project)
+* R - [fitness tracker project](https://github.com/katbates/fitness-tracker)
+* SQL - wikipedia project - in progress..
