@@ -11,4 +11,4 @@ I'm a junior data analyst. I've recently left a career in teaching and I'm looki
 🔎 **Find my projects here**:
 * Python - [moma project](https://github.com/katbates/moma-project)
 * R - [fitness tracker project](https://github.com/katbates/fitness-tracker)
-* SQL - wikipedia project - in progress..
+* SQL - wikipedia project (in progress...)
