@@ -1,6 +1,6 @@
 ### Hello, I'm Kat 👋
 
-I'm a junior data analyst. I've recently left a career in teaching and I'm looking to start my career in data.
+I'm an aspiring data analyst. I've recently left teaching and I'm looking to start my career in data.
 
 👩‍🎓 **I've been teaching myself**:
 * Python
