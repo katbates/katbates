@@ -9,6 +9,7 @@ I'm a junior data analyst. I've recently left a career in teaching and I'm looki
 * Tableau
   
 🔎 **Find my projects here**:
+* [airbnb dashboard project](https://github.com/katbates/airbnb/) using Tableau
 * [moma project](https://github.com/katbates/moma-project) using Python
 * [fitness tracker project](https://github.com/katbates/fitness-tracker) using R
 * [london bicycles project](https://github.com/katbates/london-bicycles) using SQL and Tableau
